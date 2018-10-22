@@ -6,7 +6,7 @@
 
 ```
 //将项目克隆到本地
-git clone https://github.com/yuanzhiyong123/node_nodemailer.git 
+git clone https://github.com/yuanzhiyong123/node_nodemailer.git
 
 //进入目录
 cd node_nodemailer
